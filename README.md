@@ -7,6 +7,7 @@ $ ./index.js
 ```
 
 output is like
+
 ```
 node version: v14.16.0
 OS platform darwin
